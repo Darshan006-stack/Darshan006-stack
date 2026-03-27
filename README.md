@@ -1,5 +1,5 @@
 # 💫 About Me:
-iam a student of compute science in artificial intelligence and machine learning<br>
+ B.Tech Computer Science In Artificial Intelligence and Machine Learning<br>
 
 
 ## 🌐 Socials:
